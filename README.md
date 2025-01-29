@@ -1,5 +1,5 @@
 🙋🏻‍♂️ **Sanjaydeeep Gowrishankar**
-- 👨🏻‍💻Software Development Engineer @Blackboard Inc. (now part of) Anthology Inc.
+- 👨🏻‍💻Senior Software Development Engineer (SDE-3) Anthology Inc.
 
 - 💻 A product developer who wants to become a part of vibrant organization
 
@@ -16,12 +16,17 @@ Jenkins | Kanban Board | TDD | Blockchain(Novice) | Confluence | Oracle SQL | My
 - Blog     : http://sanjaydeep22.blogspot.com/
 - SoloLearn: https://www.sololearn.com/profile/1598725
 - 
-- **Projects:**
-- Blackboard Learn - (08/2021 - Present)
-- KPATHS - (09/2019 - 08/2021)
+**Projects:**
+- **Blackboard Ultra Feature Development - Anthology Inc.(08/2021 - Present)**
+- Video Studio - Premium Feature Development - https://www.anthology.com/blog/capture-create-engage-say-hello-to-video-studio-in-blackboard
+- Assessment IP Address Filtering (IL4 - Multiple IP address filters) - https://help.blackboard.com/Learn/Administrator/Hosting/Security/Assessment_IP_Address_Filtering
+- Forms and Likert Questions - https://help.blackboard.com/Learn/Instructor/Ultra/Question_Types/Likert_Questions
+- Multiple Grading Schema (Gradebook) -https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Customize_Grading_Interface/Grading_Schemas#:~:text=Multiple%20grading%20schemas,Enter%20the%20schema%20name.
+
+- **Healthcare Domain Development - Accenture India (06/2018 - 08/2021)**
+- KPATHS (Kaiser Permanente) - (09/2019 - 08/2021)
 - Clinical Data Information Systems(CDIS) - 10/2018 - 09/2019
 - Health Foundation (Kaiser Permanente) - 06/2018 - 10/2018
-
 
 <!---
 sanjaydep1996/sanjaydep1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
