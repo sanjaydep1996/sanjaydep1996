@@ -18,10 +18,14 @@ Jenkins | Kanban Board | TDD | Blockchain(Novice) | Confluence | Oracle SQL | My
 - 
 **Projects:**
 - **Blackboard Ultra Feature Development - Anthology Inc.(08/2021 - Present)**
-- Video Studio - Premium Feature Development - https://www.anthology.com/blog/capture-create-engage-say-hello-to-video-studio-in-blackboard
-- Assessment IP Address Filtering (IL4 - Multiple IP address filters) - https://help.blackboard.com/Learn/Administrator/Hosting/Security/Assessment_IP_Address_Filtering
-- Forms and Likert Questions - https://help.blackboard.com/Learn/Instructor/Ultra/Question_Types/Likert_Questions
-- Multiple Grading Schema (Gradebook) -https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Customize_Grading_Interface/Grading_Schemas#:~:text=Multiple%20grading%20schemas,Enter%20the%20schema%20name.
+- Video Studio - Premium Feature Development
+-   - https://www.anthology.com/blog/capture-create-engage-say-hello-to-video-studio-in-blackboard
+- Assessment IP Address Filtering (IL4 - Multiple IP address filters)
+-   - https://help.blackboard.com/Learn/Administrator/Hosting/Security/Assessment_IP_Address_Filtering
+- Forms and Likert Questions
+-   - https://help.blackboard.com/Learn/Instructor/Ultra/Question_Types/Likert_Questions
+- Multiple Grading Schema (Gradebook)
+-   -https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Customize_Grading_Interface/Grading_Schemas#:~:text=Multiple%20grading%20schemas,Enter%20the%20schema%20name.
 
 - **Healthcare Domain Development - Accenture India (06/2018 - 08/2021)**
 - KPATHS (Kaiser Permanente) - (09/2019 - 08/2021)
