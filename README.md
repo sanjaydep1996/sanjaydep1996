@@ -5,9 +5,8 @@
 
 - 🖥 Exhibit technical skills, contribute towards upliftment personally and professionally. Work and build applications that improve lives, society...
 - **Skills and Proficiencies:**
-- Angular 8 | TypeScript | JSON | HTML5 | CSS3 | JavaScript | Java | Agile | Scrum | Waterfall Methodologies
-| JIRA |
-Jenkins | Kanban Board | TDD | Blockchain(Novice) | Confluence | Oracle SQL | MySQL |
+- AWS | Angular 12+ | TypeScript | React | Python | PostgresSQL | API Development | TDD | MySQL |
+- Performance Engineering (Optmisation - UI, QUERY and Service) | 
 -
 - 📫 **How to reach me ...**
 - E-mail : sanjaydep1996@gmail.com
